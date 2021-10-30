@@ -7,14 +7,14 @@
 
 ### 💻 Tech Stack:
 
-<img alt="react" src="https://img.shields.io/badge/react-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-8C0000.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-8C0000.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-8C0000.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="html5" src="https://img.shields.io/badge/html-8C0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-8C0000.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/sass-8C0000.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-8C0000.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-8C0000.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-8C0000.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-8C0000.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="html5" src="https://img.shields.io/badge/html-8C0000.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-8C0000.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/sass-8C0000.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-8C0000.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
 <!-- <img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 <!-- <img alt="jest" src="https://img.shields.io/badge/jest-8C0000.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=AC1F21" /> -->
 <!-- <img alt="testing-library" src="https://img.shields.io/badge/rtl-8C0000.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
