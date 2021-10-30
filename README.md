@@ -9,7 +9,7 @@
 
 <img alt="html5" src="https://img.shields.io/badge/html-13cb19.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=e86c2e" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-13cb19.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=2962ff" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/scss-13cb19.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/scss-13cb19.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=c76494" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-13cb19.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-13cb19.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=e86c2e" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-13cb19.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
