@@ -5,7 +5,11 @@
 - 💻 1+ Years 
 - 👨‍💻 junior Front-end
 
-[vk]: https://vk.com/id626891453
+### 🤝 Connect with me:
+
+[<img alt="Baimuratov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk]
+
+
 
 ### 💻 Tech Stack:
 
@@ -30,6 +34,9 @@
 <!-- <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-8C0000.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 <!-- <img alt="markdown" src="https://img.shields.io/badge/markdown-8C0000.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 
+
+
+[vk]: https://vk.com/id626891453
 
 <!-- ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
