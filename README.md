@@ -5,6 +5,8 @@
 - 💻 1+ Years 
 - 👨‍💻 junior Front-end
 
+[vk]: https://vk.com/id626891453
+
 ### 💻 Tech Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-13cb19.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=e86c2e" />&nbsp;
