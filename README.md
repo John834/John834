@@ -14,6 +14,10 @@
 <img alt="react" src="https://img.shields.io/badge/react-13cb19.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=5dd3f3" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-13cb19.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=472c71" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-13cb19.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=2962ff" />&nbsp;
+
+### 🛠 Tools:
+
+<img alt="git" src="https://img.shields.io/badge/git-8C0000.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <!-- <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-13cb19.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp; -->
 <!-- <img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 <!-- <img alt="jest" src="https://img.shields.io/badge/jest-8C0000.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=AC1F21" /> -->
