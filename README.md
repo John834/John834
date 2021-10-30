@@ -7,7 +7,7 @@
 
 ### 💻 Tech Stack:
 
-<img alt="react" src="https://img.shields.io/badge/react-7fcd50.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=e86c2e" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-7fcd50.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=13cb19" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-13cb19.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-13cb19.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-13cb19.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp;
