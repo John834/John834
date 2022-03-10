@@ -2,7 +2,6 @@
 ### Hi all, I'm Baimuratov
 ## I'm a junior Frontend Developer
 - 📍 I’m From UFA
-- 💻 1+ Years 
 - 👨‍💻 junior Front-end
 
 ### 🤝 Connect with me:
