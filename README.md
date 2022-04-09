@@ -3,7 +3,7 @@
 <!-- ## I'm a junior Frontend Developer -->
 <!-- - 📍 I’m From UFA -->
 
-### 🤝 Connect with me: https://www.notion.so/baimuratov-/Hi-all-I-m-Baymuratov-Ilvir-52ab2b4ba352415b9dc5df30da31e9d5
+### 🤝 Connect with me: <a href="https://www.notion.so/baimuratov-/Hi-all-I-m-Baymuratov-Ilvir-52ab2b4ba352415b9dc5df30da31e9d5" target"_blank">Baimuratov</a>
 
 <!-- [<img alt="Baimuratov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk] -->
 
