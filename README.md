@@ -1,27 +1,27 @@
 <!-- ### Hi there 👋 -->
 ### Hi all, I'm Baimuratov
-## I'm a junior Frontend Developer
-- 📍 I’m From UFA
+<!-- ## I'm a junior Frontend Developer -->
+<!-- - 📍 I’m From UFA -->
 
-### 🤝 Connect with me:
+### 🤝 Connect with me: https://www.notion.so/baimuratov-/Hi-all-I-m-Baymuratov-Ilvir-52ab2b4ba352415b9dc5df30da31e9d5
 
-[<img alt="Baimuratov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk]
+<!-- [<img alt="Baimuratov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk] -->
 
 
 
-### 💻 Tech Stack:
+<!-- ### 💻 Tech Stack: -->
 
-<img alt="html5" src="https://img.shields.io/badge/html-13cb19.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=e86c2e" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-13cb19.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=2962ff" />&nbsp;
-<img alt="scss" src="https://img.shields.io/badge/scss-13cb19.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=c76494" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-13cb19.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=efd81d" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/react-13cb19.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=5dd3f3" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-13cb19.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=472c71" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-13cb19.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=2962ff" />&nbsp;
+<!-- <img alt="html5" src="https://img.shields.io/badge/html-13cb19.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=e86c2e" />&nbsp; -->
+<!-- <img alt="css3" src="https://img.shields.io/badge/css-13cb19.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=2962ff" />&nbsp; -->
+<!-- <img alt="scss" src="https://img.shields.io/badge/scss-13cb19.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=c76494" />&nbsp; -->
+<!-- <img alt="javascript" src="https://img.shields.io/badge/javascript-13cb19.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=efd81d" />&nbsp; -->
+<!-- <img alt="react" src="https://img.shields.io/badge/react-13cb19.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=5dd3f3" />&nbsp; -->
+<!-- <img alt="redux" src="https://img.shields.io/badge/redux-13cb19.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=472c71" />&nbsp; -->
+<!-- <img alt="typescript" src="https://img.shields.io/badge/typescript-13cb19.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=2962ff" />&nbsp; -->
 
-### 🛠 Tools:
+<!-- ### 🛠 Tools: -->
 
-<img alt="git" src="https://img.shields.io/badge/git-13cb19.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<!-- <img alt="git" src="https://img.shields.io/badge/git-13cb19.svg?&style=for-the-badge&logo=git&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 <!-- <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-13cb19.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=7fcd50" />&nbsp; -->
 <!-- <img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 <!-- <img alt="jest" src="https://img.shields.io/badge/jest-8C0000.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=AC1F21" /> -->
