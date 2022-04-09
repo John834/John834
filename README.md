@@ -1,9 +1,11 @@
 <!-- ### Hi there 👋 -->
-### Hi all, I'm Baimuratov
+### Hi all 👋, I'm Baimuratov
 <!-- ## I'm a junior Frontend Developer -->
 <!-- - 📍 I’m From UFA -->
 
-### 🤝 Connect with me: <a href="https://www.notion.so/baimuratov-/Hi-all-I-m-Baymuratov-Ilvir-52ab2b4ba352415b9dc5df30da31e9d5" target"_blank">Baimuratov</a>
+### 🤝 Connect with me: 
+[<img alt="Portfolio" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />][notion]
+<!-- <a href="https://www.notion.so/baimuratov-/Hi-all-I-m-Baymuratov-Ilvir-52ab2b4ba352415b9dc5df30da31e9d5" target"_blank">Baimuratov</a> -->
 
 <!-- [<img alt="Baimuratov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=fff" />][vk] -->
 
@@ -34,7 +36,8 @@
 
 
 
-[vk]: https://vk.com/id626891453
+<!-- [vk]: https://vk.com/id626891453 -->
+[notion]: https://www.notion.so/baimuratov-/Hi-all-I-m-Baymuratov-Ilvir-52ab2b4ba352415b9dc5df30da31e9d5
 
 <!-- ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
